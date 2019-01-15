@@ -1,2 +1,2 @@
 # spfx
-SharePoint Framework
+SharePoint Framework Apps
